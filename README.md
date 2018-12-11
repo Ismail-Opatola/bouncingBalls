@@ -1,6 +1,6 @@
 # BOUNCING BALL
 
-Using Prototype-based inheritance, Canvas API for drawing the balls to the screen, and the requestAnimationFrame API for animating the whole display
+Using Prototype-based inheritance, Canvas API for drawing balls to the screen, and requestAnimationFrame API for animating the whole display
 
 ## Functionality
 
